@@ -1,0 +1,24 @@
+{
+  "name": "servidor-Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ces1-2020-vpt/servidor-Express---JC.git"
+  },
+  "keywords": [],
+  "author": "Julio Romaña y Kevelin Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ces1-2020-vpt/servidor-Express---JC/issues"
+  },
+  "homepage": "https://github.com/ces1-2020-vpt/servidor-Express---JC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
